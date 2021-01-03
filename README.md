@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=WeihanLi&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zqhjl&show_icons=true&theme=tokyonight&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeihanLi&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zqhjl&theme=tokyonight)
 
 
 <!--
