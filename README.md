@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi 👋 I'm [Seven Chor](http://zqhjl.github.io)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=zqhjl&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/zqhjl)
-
+<!--
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zqhjl&theme=tokyonight)](https://github.com/zqhjl)
-
+-->
 
 <!--
 **zqhjl/zqhjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
