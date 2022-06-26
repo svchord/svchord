@@ -1,12 +1,15 @@
-### Hi 👋 I'm [Seven Chor](http://zqhjl.github.io)
+### Hi 👋 I'm [Seven Chord](http://svchord.github.io)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=zqhjl&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/zqhjl)
-<!--
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zqhjl&theme=tokyonight)](https://github.com/zqhjl)
--->
+[![GitHub followers](https://img.shields.io/github/followers/svchord?style=flat-square)](https://github.com/svchord?tab=followers) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svchord&layout=compact&langs_count=8&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svchord&show_icons=true&theme=buefy&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=svchord)
 
 <!--
-**zqhjl/zqhjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zuoqiu-Yingyi/Zuoqiu-Yingyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
