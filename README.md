@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Seven Chord's GitHub stats](https://github-readme-stats-svchord.vercel.app/api?username=svchord&line_height=28&show_icons=true&include_all_commits=true)
+[![Seven Chord's GitHub stats](https://github-readme-stats-svchord.vercel.app/api?username=svchord&line_height=28&show_icons=true&include_all_commits=true)](https://github.com/svchord)
 
 [![Top Langs](https://github-readme-stats-svchord.vercel.app/api/top-langs/?username=svchord&layout=compact&langs_count=20&hide=java,css&card_width=467)](https://github.com/svchord)
